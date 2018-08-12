@@ -1,1 +1,1 @@
-https://github.com/LexusAlex/bitrix-scratch 
+http://lexusalex.ru/1c-bitrix-simple-start

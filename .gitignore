@@ -1,0 +1,12 @@
+.DS_Store
+
+.idea
+# Compiled site
+_site
+
+# Sass garbage
+.sass-cache
+
+# Bundler
+.bundle/
+vendor/
